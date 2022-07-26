@@ -1,0 +1,1 @@
+/home/vimal/nimble_experiment/nimble_page_management_userspace/end_to_end_launcher/launcher --dumpstats --dumpstats_period 5 --shrink_page_lists --memcg /sys/fs/cgroup/two-level-memory/cgroup.procs --nomigration --vm_stats --cpunode 2 --fast_mem 2 --slow_mem 2 --memory_manage  -- ./pclvrleaf_base.gnu

@@ -1,0 +1,98 @@
+
+Clover Version    1.000
+ OpenMP Version
+       MPI Version
+   Task Count      1
+
+ Clover will run from the following input:-
+
+*clover                                                                                             
+                                                                                                    
+ state 1 density=0.2 energy=1.0                                                                     
+ state 2 density=1.0 energy=2.5 geometry=rectangle xmin=0.0 xmax=5.0 ymin=0.0 ymax=2.0              
+                                                                                                    
+ x_cells=4275                                                                                       
+ y_cells=10000                                                                                      
+                                                                                                    
+ xmin=0.0                                                                                           
+ ymin=0.0                                                                                           
+ xmax=10.0                                                                                          
+ ymax=10.0                                                                                          
+                                                                                                    
+ initial_timestep=0.04                                                                              
+ timestep_rise=1.5                                                                                  
+ max_timestep=0.04                                                                                  
+ end_time=15.5                                                                                      
+ end_step=3                                                                                         
+                                                                                                    
+*endclover                                                                                          
+
+ Initialising and generating
+
+ Reading input file
+
+ Reading specification for state            1
+
+            state density   0.2000E+00
+             state energy   0.1000E+01
+
+ Reading specification for state            2
+
+            state density   0.1000E+01
+             state energy   0.2500E+01
+ state geometry rectangular
+               state xmin   0.0000E+00
+               state xmax   0.5000E+01
+               state ymin   0.0000E+00
+               state ymax   0.2000E+01
+
+                   x_cells        4275
+                   y_cells       10000
+                      xmin  0.0000E+00
+                      ymin  0.0000E+00
+                      xmax  0.1000E+02
+                      ymax  0.1000E+02
+         initial_timestep   0.4000E-01
+             timestep_rise  0.1500E+01
+              max_timestep  0.4000E-01
+                  end_time  0.1550E+02
+                  end_step           3
+
+     Using Fortran Kernels
+
+ Input read finished.
+
+ Setting up initial geometry
+
+
+ Mesh ratio of   0.42750000953674316     
+ Decomposing the mesh into            1  by            1  chunks
+
+ Generating chunks
+
+ Problem initialised and generated
+
+ Time    0.0000000000000000     
+                       Volume            Mass         Density        Pressure Internal Energy  Kinetic Energy    Total Energy
+ step:      0      0.1000E+03      0.2800E+02      0.2800E+00      0.1720E+00      0.4301E+02      0.0000E+00      0.4301E+02
+
+ Starting the calculation
+ Step       1 time   0.0000000 control    sound    timestep   5.92E-04       1,       1 x  1.17E-03 y  5.00E-04
+ Wall clock    6.2361631393432617     
+ Average time per cell    1.4587516115422834E-007
+ Step time per cell       1.4587516115422834E-007
+ Step       2 time   0.0005916 control    sound    timestep   5.04E-04       1,       1 x  1.17E-03 y  5.00E-04
+ Wall clock    12.465957164764404     
+ Average time per cell    1.4580066859373572E-007
+ Step time per cell       1.4572533389978241E-007
+ Step       3 time   0.0010952 control    sound    timestep   4.54E-04       1,       1 x  1.17E-03 y  5.00E-04
+
+ Time    1.5489721487539610E-003
+                       Volume            Mass         Density        Pressure Internal Energy  Kinetic Energy    Total Energy
+ step:      3      0.1000E+03      0.2800E+02      0.2800E+00      0.1720E+00      0.4300E+02      0.3213E-02      0.4300E+02
+
+
+ Calculation complete
+ Clover is finishing
+ Wall clock    18.988313198089600     
+ First step overhead   6.4051151275634766E-003

@@ -1,0 +1,5 @@
+child pid: 459155
+cycles: 362785297844
+real time(ms): 129874, user time(ms): 121674, system time(ms): 7488, virtual cpu time(ms): 129162
+min_flt: 4813, maj_flt: 1, maxrss: 8138884 KB
+nvm_media_read_cnt: 4578354544, nvm_media_write_cnt: 2983584628

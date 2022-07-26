@@ -1,0 +1,11 @@
+child pid: 438070
+
+Clover Version    1.000
+ OpenMP Version
+       MPI Version
+   Task Count      1
+
+cycles: 697322973340
+real time(ms): 249635, user time(ms): 230991, system time(ms): 13870, virtual cpu time(ms): 244861
+min_flt: 17424, maj_flt: 11, maxrss: 8365908 KB
+nvm_media_read_cnt: 8752042564, nvm_media_write_cnt: 5037443520

@@ -1,0 +1,1 @@
+/home/vimal/nimble_experiment/nimble_page_management_userspace/end_to_end_launcher/launcher --dumpstats --dumpstats_period 5 --shrink_page_lists --memcg /sys/fs/cgroup/two-level-memory/cgroup.procs --non_thp_migration --vm_stats --prefer_memnode --cpunode 2 --fast_mem 2 --slow_mem 9 --memory_manage  -- ./pseismic 168 512 512 2 5 1000

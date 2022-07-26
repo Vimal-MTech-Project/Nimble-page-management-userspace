@@ -1,0 +1,1436 @@
+[130550.144680] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.238479] [exchange_page_lists_mthread] Current exchange bandhwidth: 62131 KB/GCycles
+[130550.238972] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.314096] [exchange_page_lists_mthread] Current exchange bandhwidth: 69192 KB/GCycles
+[130550.314474] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.391067] [exchange_page_lists_mthread] Current exchange bandhwidth: 71488 KB/GCycles
+[130550.391424] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.470559] [exchange_page_lists_mthread] Current exchange bandhwidth: 72126 KB/GCycles
+[130550.470981] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.548559] [exchange_page_lists_mthread] Current exchange bandhwidth: 72794 KB/GCycles
+[130550.549047] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.647250] [exchange_page_lists_mthread] Current exchange bandhwidth: 70232 KB/GCycles
+[130550.647727] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.750139] [exchange_page_lists_mthread] Current exchange bandhwidth: 68031 KB/GCycles
+[130550.752180] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.850400] [exchange_page_lists_mthread] Current exchange bandhwidth: 66853 KB/GCycles
+[130550.851048] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130550.950950] [exchange_page_lists_mthread] Current exchange bandhwidth: 65837 KB/GCycles
+[130550.953504] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.057674] [exchange_page_lists_mthread] Current exchange bandhwidth: 64740 KB/GCycles
+[130551.059366] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.157565] [exchange_page_lists_mthread] Current exchange bandhwidth: 64250 KB/GCycles
+[130551.160285] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.237358] [exchange_page_lists_mthread] Current exchange bandhwidth: 65093 KB/GCycles
+[130551.240507] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.323725] [exchange_page_lists_mthread] Current exchange bandhwidth: 65467 KB/GCycles
+[130551.327975] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.433857] [exchange_page_lists_mthread] Current exchange bandhwidth: 64603 KB/GCycles
+[130551.435644] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.542655] [exchange_page_lists_mthread] Current exchange bandhwidth: 63805 KB/GCycles
+[130551.546011] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.651057] [exchange_page_lists_mthread] Current exchange bandhwidth: 63240 KB/GCycles
+[130551.654876] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.762865] [exchange_page_lists_mthread] Current exchange bandhwidth: 62626 KB/GCycles
+[130551.763735] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.869096] [exchange_page_lists_mthread] Current exchange bandhwidth: 62193 KB/GCycles
+[130551.872097] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130551.977191] [exchange_page_lists_mthread] Current exchange bandhwidth: 61820 KB/GCycles
+[130551.980805] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.085533] [exchange_page_lists_mthread] Current exchange bandhwidth: 61500 KB/GCycles
+[130552.090600] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.199586] [exchange_page_lists_mthread] Current exchange bandhwidth: 61085 KB/GCycles
+[130552.200744] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.305319] [exchange_page_lists_mthread] Current exchange bandhwidth: 60838 KB/GCycles
+[130552.308829] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.416275] [exchange_page_lists_mthread] Current exchange bandhwidth: 60537 KB/GCycles
+[130552.417919] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.522564] [exchange_page_lists_mthread] Current exchange bandhwidth: 60335 KB/GCycles
+[130552.525924] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.630483] [exchange_page_lists_mthread] Current exchange bandhwidth: 60153 KB/GCycles
+[130552.634182] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.740046] [exchange_page_lists_mthread] Current exchange bandhwidth: 59954 KB/GCycles
+[130552.742930] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.842236] [exchange_page_lists_mthread] Current exchange bandhwidth: 59921 KB/GCycles
+[130552.846501] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130552.944298] [exchange_page_lists_mthread] Current exchange bandhwidth: 59922 KB/GCycles
+[130552.945949] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.050157] [exchange_page_lists_mthread] Current exchange bandhwidth: 59789 KB/GCycles
+[130553.052543] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.154579] [exchange_page_lists_mthread] Current exchange bandhwidth: 59708 KB/GCycles
+[130553.155513] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.259656] [exchange_page_lists_mthread] Current exchange bandhwidth: 59592 KB/GCycles
+[130553.262809] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.368838] [exchange_page_lists_mthread] Current exchange bandhwidth: 59449 KB/GCycles
+[130553.371944] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.476738] [exchange_page_lists_mthread] Current exchange bandhwidth: 59337 KB/GCycles
+[130553.480109] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.586736] [exchange_page_lists_mthread] Current exchange bandhwidth: 59191 KB/GCycles
+[130553.588761] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.695024] [exchange_page_lists_mthread] Current exchange bandhwidth: 59069 KB/GCycles
+[130553.697015] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.802046] [exchange_page_lists_mthread] Current exchange bandhwidth: 58974 KB/GCycles
+[130553.806165] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130553.909878] [exchange_page_lists_mthread] Current exchange bandhwidth: 58903 KB/GCycles
+[130553.914535] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.012904] [exchange_page_lists_mthread] Current exchange bandhwidth: 58921 KB/GCycles
+[130554.016352] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.116376] [exchange_page_lists_mthread] Current exchange bandhwidth: 58905 KB/GCycles
+[130554.119498] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.227398] [exchange_page_lists_mthread] Current exchange bandhwidth: 58782 KB/GCycles
+[130554.228407] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.335561] [exchange_page_lists_mthread] Current exchange bandhwidth: 58676 KB/GCycles
+[130554.337294] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.441548] [exchange_page_lists_mthread] Current exchange bandhwidth: 58616 KB/GCycles
+[130554.445435] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.536088] [exchange_page_lists_mthread] Current exchange bandhwidth: 58745 KB/GCycles
+[130554.538522] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.616403] [exchange_page_lists_mthread] Current exchange bandhwidth: 59036 KB/GCycles
+[130554.618920] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.697505] [exchange_page_lists_mthread] Current exchange bandhwidth: 59311 KB/GCycles
+[130554.700443] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.776673] [exchange_page_lists_mthread] Current exchange bandhwidth: 59608 KB/GCycles
+[130554.779243] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.857822] [exchange_page_lists_mthread] Current exchange bandhwidth: 59860 KB/GCycles
+[130554.861281] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130554.939682] [exchange_page_lists_mthread] Current exchange bandhwidth: 60097 KB/GCycles
+[130554.943452] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.020972] [exchange_page_lists_mthread] Current exchange bandhwidth: 60350 KB/GCycles
+[130555.025386] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.102962] [exchange_page_lists_mthread] Current exchange bandhwidth: 60595 KB/GCycles
+[130555.107430] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.187038] [exchange_page_lists_mthread] Current exchange bandhwidth: 60807 KB/GCycles
+[130555.190526] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.266891] [exchange_page_lists_mthread] Current exchange bandhwidth: 61051 KB/GCycles
+[130555.269958] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.347881] [exchange_page_lists_mthread] Current exchange bandhwidth: 61266 KB/GCycles
+[130555.351392] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.426969] [exchange_page_lists_mthread] Current exchange bandhwidth: 61506 KB/GCycles
+[130555.429982] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.507502] [exchange_page_lists_mthread] Current exchange bandhwidth: 61716 KB/GCycles
+[130555.510000] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.589378] [exchange_page_lists_mthread] Current exchange bandhwidth: 61896 KB/GCycles
+[130555.592543] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.668125] [exchange_page_lists_mthread] Current exchange bandhwidth: 62116 KB/GCycles
+[130555.670722] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.748156] [exchange_page_lists_mthread] Current exchange bandhwidth: 62308 KB/GCycles
+[130555.749023] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.829279] [exchange_page_lists_mthread] Current exchange bandhwidth: 62464 KB/GCycles
+[130555.833369] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.912314] [exchange_page_lists_mthread] Current exchange bandhwidth: 62617 KB/GCycles
+[130555.916358] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130555.992887] [exchange_page_lists_mthread] Current exchange bandhwidth: 62806 KB/GCycles
+[130555.996904] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.075666] [exchange_page_lists_mthread] Current exchange bandhwidth: 62960 KB/GCycles
+[130556.080475] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.156376] [exchange_page_lists_mthread] Current exchange bandhwidth: 63145 KB/GCycles
+[130556.159080] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.237317] [exchange_page_lists_mthread] Current exchange bandhwidth: 63299 KB/GCycles
+[130556.240559] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.317838] [exchange_page_lists_mthread] Current exchange bandhwidth: 63461 KB/GCycles
+[130556.320942] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.399539] [exchange_page_lists_mthread] Current exchange bandhwidth: 63605 KB/GCycles
+[130556.404180] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.482010] [exchange_page_lists_mthread] Current exchange bandhwidth: 63753 KB/GCycles
+[130556.484199] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.549254] [exchange_page_lists_mthread] Current exchange bandhwidth: 63910 KB/GCycles
+[130556.615975] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.677020] [exchange_page_lists_mthread] Current exchange bandhwidth: 64222 KB/GCycles
+[130556.677262] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.742486] [exchange_page_lists_mthread] Current exchange bandhwidth: 64486 KB/GCycles
+[130556.742762] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.856111] [exchange_page_lists_mthread] Current exchange bandhwidth: 64263 KB/GCycles
+[130556.856447] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130556.948391] [exchange_page_lists_mthread] Current exchange bandhwidth: 64256 KB/GCycles
+[130556.948714] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.028262] [exchange_page_lists_mthread] Current exchange bandhwidth: 64369 KB/GCycles
+[130557.028550] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.110565] [exchange_page_lists_mthread] Current exchange bandhwidth: 64457 KB/GCycles
+[130557.110859] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.213717] [exchange_page_lists_mthread] Current exchange bandhwidth: 64344 KB/GCycles
+[130557.213994] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.313259] [exchange_page_lists_mthread] Current exchange bandhwidth: 64269 KB/GCycles
+[130557.313576] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.416383] [exchange_page_lists_mthread] Current exchange bandhwidth: 64163 KB/GCycles
+[130557.417173] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.514076] [exchange_page_lists_mthread] Current exchange bandhwidth: 64114 KB/GCycles
+[130557.516365] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.620207] [exchange_page_lists_mthread] Current exchange bandhwidth: 64004 KB/GCycles
+[130557.620635] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.720541] [exchange_page_lists_mthread] Current exchange bandhwidth: 63931 KB/GCycles
+[130557.721095] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.824183] [exchange_page_lists_mthread] Current exchange bandhwidth: 63833 KB/GCycles
+[130557.824999] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130557.932718] [exchange_page_lists_mthread] Current exchange bandhwidth: 63699 KB/GCycles
+[130557.934524] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130558.042839] [exchange_page_lists_mthread] Current exchange bandhwidth: 63564 KB/GCycles
+[130558.045777] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130558.157209] [exchange_page_lists_mthread] Current exchange bandhwidth: 63395 KB/GCycles
+[130558.157283] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130558.167871] [exchange_page_lists_mthread] Current exchange bandhwidth: 63403 KB/GCycles
+[130561.577524] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130561.616337] [exchange_page_lists_mthread] Current exchange bandhwidth: 63839 KB/GCycles
+[130561.616557] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130561.710037] [exchange_page_lists_mthread] Current exchange bandhwidth: 63826 KB/GCycles
+[130561.710326] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130561.807733] [exchange_page_lists_mthread] Current exchange bandhwidth: 63782 KB/GCycles
+[130561.808008] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130561.910045] [exchange_page_lists_mthread] Current exchange bandhwidth: 63703 KB/GCycles
+[130561.910320] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.008766] [exchange_page_lists_mthread] Current exchange bandhwidth: 63653 KB/GCycles
+[130562.009050] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.109718] [exchange_page_lists_mthread] Current exchange bandhwidth: 63588 KB/GCycles
+[130562.109994] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.210237] [exchange_page_lists_mthread] Current exchange bandhwidth: 63527 KB/GCycles
+[130562.210529] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.311572] [exchange_page_lists_mthread] Current exchange bandhwidth: 63462 KB/GCycles
+[130562.311927] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.400833] [exchange_page_lists_mthread] Current exchange bandhwidth: 63488 KB/GCycles
+[130562.402570] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.480854] [exchange_page_lists_mthread] Current exchange bandhwidth: 63591 KB/GCycles
+[130562.481434] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.564152] [exchange_page_lists_mthread] Current exchange bandhwidth: 63660 KB/GCycles
+[130562.565079] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.647549] [exchange_page_lists_mthread] Current exchange bandhwidth: 63730 KB/GCycles
+[130562.650200] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.729144] [exchange_page_lists_mthread] Current exchange bandhwidth: 63823 KB/GCycles
+[130562.731424] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.812270] [exchange_page_lists_mthread] Current exchange bandhwidth: 63897 KB/GCycles
+[130562.815273] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.894344] [exchange_page_lists_mthread] Current exchange bandhwidth: 63986 KB/GCycles
+[130562.897813] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130562.978278] [exchange_page_lists_mthread] Current exchange bandhwidth: 64065 KB/GCycles
+[130562.981868] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.060972] [exchange_page_lists_mthread] Current exchange bandhwidth: 64151 KB/GCycles
+[130563.065564] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.146088] [exchange_page_lists_mthread] Current exchange bandhwidth: 64226 KB/GCycles
+[130563.149986] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.230574] [exchange_page_lists_mthread] Current exchange bandhwidth: 64299 KB/GCycles
+[130563.231415] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.312441] [exchange_page_lists_mthread] Current exchange bandhwidth: 64368 KB/GCycles
+[130563.315628] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.395751] [exchange_page_lists_mthread] Current exchange bandhwidth: 64440 KB/GCycles
+[130563.397851] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.479481] [exchange_page_lists_mthread] Current exchange bandhwidth: 64503 KB/GCycles
+[130563.482078] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.563247] [exchange_page_lists_mthread] Current exchange bandhwidth: 64567 KB/GCycles
+[130563.564079] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.646633] [exchange_page_lists_mthread] Current exchange bandhwidth: 64621 KB/GCycles
+[130563.647588] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.726050] [exchange_page_lists_mthread] Current exchange bandhwidth: 64701 KB/GCycles
+[130563.728476] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.809272] [exchange_page_lists_mthread] Current exchange bandhwidth: 64765 KB/GCycles
+[130563.811652] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.891813] [exchange_page_lists_mthread] Current exchange bandhwidth: 64828 KB/GCycles
+[130563.892286] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130563.975411] [exchange_page_lists_mthread] Current exchange bandhwidth: 64875 KB/GCycles
+[130563.976695] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130564.057497] [exchange_page_lists_mthread] Current exchange bandhwidth: 64936 KB/GCycles
+[130564.060537] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130564.138566] [exchange_page_lists_mthread] Current exchange bandhwidth: 65014 KB/GCycles
+[130564.144049] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130564.223905] [exchange_page_lists_mthread] Current exchange bandhwidth: 65079 KB/GCycles
+[130564.224514] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130564.305910] [exchange_page_lists_mthread] Current exchange bandhwidth: 65133 KB/GCycles
+[130564.306477] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130564.369642] [exchange_page_lists_mthread] Current exchange bandhwidth: 65159 KB/GCycles
+[130566.596911] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130566.687836] [exchange_page_lists_mthread] Current exchange bandhwidth: 65154 KB/GCycles
+[130566.688196] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130566.769851] [exchange_page_lists_mthread] Current exchange bandhwidth: 65205 KB/GCycles
+[130566.770295] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130566.854273] [exchange_page_lists_mthread] Current exchange bandhwidth: 65241 KB/GCycles
+[130566.854583] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130566.937749] [exchange_page_lists_mthread] Current exchange bandhwidth: 65281 KB/GCycles
+[130566.938370] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.023460] [exchange_page_lists_mthread] Current exchange bandhwidth: 65309 KB/GCycles
+[130567.024075] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.106283] [exchange_page_lists_mthread] Current exchange bandhwidth: 65354 KB/GCycles
+[130567.106789] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.190915] [exchange_page_lists_mthread] Current exchange bandhwidth: 65388 KB/GCycles
+[130567.191648] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.274860] [exchange_page_lists_mthread] Current exchange bandhwidth: 65425 KB/GCycles
+[130567.275558] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.361114] [exchange_page_lists_mthread] Current exchange bandhwidth: 65449 KB/GCycles
+[130567.361874] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.445495] [exchange_page_lists_mthread] Current exchange bandhwidth: 65484 KB/GCycles
+[130567.446423] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.530155] [exchange_page_lists_mthread] Current exchange bandhwidth: 65517 KB/GCycles
+[130567.530825] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.617199] [exchange_page_lists_mthread] Current exchange bandhwidth: 65535 KB/GCycles
+[130567.618823] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.701361] [exchange_page_lists_mthread] Current exchange bandhwidth: 65573 KB/GCycles
+[130567.702178] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.789265] [exchange_page_lists_mthread] Current exchange bandhwidth: 65586 KB/GCycles
+[130567.791008] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.873447] [exchange_page_lists_mthread] Current exchange bandhwidth: 65625 KB/GCycles
+[130567.876548] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130567.958627] [exchange_page_lists_mthread] Current exchange bandhwidth: 65666 KB/GCycles
+[130567.962552] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130568.044204] [exchange_page_lists_mthread] Current exchange bandhwidth: 65708 KB/GCycles
+[130568.044322] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130568.054385] [exchange_page_lists_mthread] Current exchange bandhwidth: 65714 KB/GCycles
+[130571.583199] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130571.683995] [exchange_page_lists_mthread] Current exchange bandhwidth: 65651 KB/GCycles
+[130571.684438] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130571.785189] [exchange_page_lists_mthread] Current exchange bandhwidth: 65589 KB/GCycles
+[130571.785676] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130571.886403] [exchange_page_lists_mthread] Current exchange bandhwidth: 65528 KB/GCycles
+[130571.886835] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130571.988800] [exchange_page_lists_mthread] Current exchange bandhwidth: 65462 KB/GCycles
+[130571.989230] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.089039] [exchange_page_lists_mthread] Current exchange bandhwidth: 65409 KB/GCycles
+[130572.089681] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.191248] [exchange_page_lists_mthread] Current exchange bandhwidth: 65347 KB/GCycles
+[130572.192068] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.294529] [exchange_page_lists_mthread] Current exchange bandhwidth: 65281 KB/GCycles
+[130572.295484] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.371446] [exchange_page_lists_mthread] Current exchange bandhwidth: 65352 KB/GCycles
+[130572.371700] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.414237] [exchange_page_lists_mthread] Current exchange bandhwidth: 65594 KB/GCycles
+[130572.416814] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.498724] [exchange_page_lists_mthread] Current exchange bandhwidth: 65632 KB/GCycles
+[130572.499762] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.582896] [exchange_page_lists_mthread] Current exchange bandhwidth: 65663 KB/GCycles
+[130572.583476] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.691030] [exchange_page_lists_mthread] Current exchange bandhwidth: 65571 KB/GCycles
+[130572.691878] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.800832] [exchange_page_lists_mthread] Current exchange bandhwidth: 65474 KB/GCycles
+[130572.803050] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130572.912535] [exchange_page_lists_mthread] Current exchange bandhwidth: 65376 KB/GCycles
+[130572.913373] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.021602] [exchange_page_lists_mthread] Current exchange bandhwidth: 65285 KB/GCycles
+[130573.023628] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.132412] [exchange_page_lists_mthread] Current exchange bandhwidth: 65194 KB/GCycles
+[130573.134577] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.243677] [exchange_page_lists_mthread] Current exchange bandhwidth: 65102 KB/GCycles
+[130573.246164] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.357560] [exchange_page_lists_mthread] Current exchange bandhwidth: 65000 KB/GCycles
+[130573.359209] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.469334] [exchange_page_lists_mthread] Current exchange bandhwidth: 64906 KB/GCycles
+[130573.470616] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.580673] [exchange_page_lists_mthread] Current exchange bandhwidth: 64814 KB/GCycles
+[130573.582617] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.690554] [exchange_page_lists_mthread] Current exchange bandhwidth: 64734 KB/GCycles
+[130573.692577] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.801773] [exchange_page_lists_mthread] Current exchange bandhwidth: 64649 KB/GCycles
+[130573.802608] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130573.909957] [exchange_page_lists_mthread] Current exchange bandhwidth: 64573 KB/GCycles
+[130573.912385] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130574.024047] [exchange_page_lists_mthread] Current exchange bandhwidth: 64479 KB/GCycles
+[130574.025028] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130574.136029] [exchange_page_lists_mthread] Current exchange bandhwidth: 64390 KB/GCycles
+[130574.136336] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130574.195935] [exchange_page_lists_mthread] Current exchange bandhwidth: 64328 KB/GCycles
+[130576.582498] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130576.709987] [exchange_page_lists_mthread] Current exchange bandhwidth: 64169 KB/GCycles
+[130576.710409] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130576.822361] [exchange_page_lists_mthread] Current exchange bandhwidth: 64079 KB/GCycles
+[130576.822990] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130576.937023] [exchange_page_lists_mthread] Current exchange bandhwidth: 63983 KB/GCycles
+[130576.937229] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.048090] [exchange_page_lists_mthread] Current exchange bandhwidth: 63901 KB/GCycles
+[130577.048603] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.161537] [exchange_page_lists_mthread] Current exchange bandhwidth: 63811 KB/GCycles
+[130577.162001] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.273137] [exchange_page_lists_mthread] Current exchange bandhwidth: 63730 KB/GCycles
+[130577.273744] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.386054] [exchange_page_lists_mthread] Current exchange bandhwidth: 63646 KB/GCycles
+[130577.387036] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.490339] [exchange_page_lists_mthread] Current exchange bandhwidth: 63600 KB/GCycles
+[130577.490897] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.593255] [exchange_page_lists_mthread] Current exchange bandhwidth: 63559 KB/GCycles
+[130577.594063] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.696035] [exchange_page_lists_mthread] Current exchange bandhwidth: 63519 KB/GCycles
+[130577.696780] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.798209] [exchange_page_lists_mthread] Current exchange bandhwidth: 63482 KB/GCycles
+[130577.799304] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130577.901905] [exchange_page_lists_mthread] Current exchange bandhwidth: 63442 KB/GCycles
+[130577.904378] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.007982] [exchange_page_lists_mthread] Current exchange bandhwidth: 63397 KB/GCycles
+[130578.010417] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.114516] [exchange_page_lists_mthread] Current exchange bandhwidth: 63351 KB/GCycles
+[130578.115404] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.218861] [exchange_page_lists_mthread] Current exchange bandhwidth: 63309 KB/GCycles
+[130578.222023] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.323259] [exchange_page_lists_mthread] Current exchange bandhwidth: 63275 KB/GCycles
+[130578.326419] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.428281] [exchange_page_lists_mthread] Current exchange bandhwidth: 63240 KB/GCycles
+[130578.430750] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.535670] [exchange_page_lists_mthread] Current exchange bandhwidth: 63193 KB/GCycles
+[130578.536660] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.641330] [exchange_page_lists_mthread] Current exchange bandhwidth: 63148 KB/GCycles
+[130578.642658] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.738581] [exchange_page_lists_mthread] Current exchange bandhwidth: 63136 KB/GCycles
+[130578.740946] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.818411] [exchange_page_lists_mthread] Current exchange bandhwidth: 63194 KB/GCycles
+[130578.821511] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.899053] [exchange_page_lists_mthread] Current exchange bandhwidth: 63251 KB/GCycles
+[130578.902081] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130578.980725] [exchange_page_lists_mthread] Current exchange bandhwidth: 63304 KB/GCycles
+[130578.984728] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.063843] [exchange_page_lists_mthread] Current exchange bandhwidth: 63354 KB/GCycles
+[130579.067073] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.143226] [exchange_page_lists_mthread] Current exchange bandhwidth: 63415 KB/GCycles
+[130579.146304] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.223482] [exchange_page_lists_mthread] Current exchange bandhwidth: 63472 KB/GCycles
+[130579.226603] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.303080] [exchange_page_lists_mthread] Current exchange bandhwidth: 63530 KB/GCycles
+[130579.304065] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.384080] [exchange_page_lists_mthread] Current exchange bandhwidth: 63575 KB/GCycles
+[130579.387746] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.465858] [exchange_page_lists_mthread] Current exchange bandhwidth: 63625 KB/GCycles
+[130579.469302] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.547173] [exchange_page_lists_mthread] Current exchange bandhwidth: 63677 KB/GCycles
+[130579.550754] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.628158] [exchange_page_lists_mthread] Current exchange bandhwidth: 63731 KB/GCycles
+[130579.629097] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.708752] [exchange_page_lists_mthread] Current exchange bandhwidth: 63775 KB/GCycles
+[130579.709708] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.794084] [exchange_page_lists_mthread] Current exchange bandhwidth: 63803 KB/GCycles
+[130579.797909] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.874627] [exchange_page_lists_mthread] Current exchange bandhwidth: 63857 KB/GCycles
+[130579.877557] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130579.971612] [exchange_page_lists_mthread] Current exchange bandhwidth: 63850 KB/GCycles
+[130579.972915] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.086348] [exchange_page_lists_mthread] Current exchange bandhwidth: 63773 KB/GCycles
+[130580.089566] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.202316] [exchange_page_lists_mthread] Current exchange bandhwidth: 63699 KB/GCycles
+[130580.206714] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.320264] [exchange_page_lists_mthread] Current exchange bandhwidth: 63624 KB/GCycles
+[130580.320974] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.434219] [exchange_page_lists_mthread] Current exchange bandhwidth: 63551 KB/GCycles
+[130580.435953] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.547904] [exchange_page_lists_mthread] Current exchange bandhwidth: 63483 KB/GCycles
+[130580.551255] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.662340] [exchange_page_lists_mthread] Current exchange bandhwidth: 63419 KB/GCycles
+[130580.664446] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.777993] [exchange_page_lists_mthread] Current exchange bandhwidth: 63346 KB/GCycles
+[130580.780537] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.864970] [exchange_page_lists_mthread] Current exchange bandhwidth: 63373 KB/GCycles
+[130580.865954] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130580.984234] [exchange_page_lists_mthread] Current exchange bandhwidth: 63286 KB/GCycles
+[130580.984758] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.096150] [exchange_page_lists_mthread] Current exchange bandhwidth: 63224 KB/GCycles
+[130581.096476] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.208422] [exchange_page_lists_mthread] Current exchange bandhwidth: 63160 KB/GCycles
+[130581.208885] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.321114] [exchange_page_lists_mthread] Current exchange bandhwidth: 63097 KB/GCycles
+[130581.321738] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.433582] [exchange_page_lists_mthread] Current exchange bandhwidth: 63035 KB/GCycles
+[130581.434034] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.546659] [exchange_page_lists_mthread] Current exchange bandhwidth: 62971 KB/GCycles
+[130581.547303] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.660384] [exchange_page_lists_mthread] Current exchange bandhwidth: 62907 KB/GCycles
+[130581.662344] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.776051] [exchange_page_lists_mthread] Current exchange bandhwidth: 62841 KB/GCycles
+[130581.776656] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130581.889430] [exchange_page_lists_mthread] Current exchange bandhwidth: 62779 KB/GCycles
+[130581.890387] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.002426] [exchange_page_lists_mthread] Current exchange bandhwidth: 62720 KB/GCycles
+[130582.003038] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.115677] [exchange_page_lists_mthread] Current exchange bandhwidth: 62660 KB/GCycles
+[130582.116257] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.229449] [exchange_page_lists_mthread] Current exchange bandhwidth: 62599 KB/GCycles
+[130582.230169] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.343332] [exchange_page_lists_mthread] Current exchange bandhwidth: 62538 KB/GCycles
+[130582.344793] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.459934] [exchange_page_lists_mthread] Current exchange bandhwidth: 62473 KB/GCycles
+[130582.460676] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.572638] [exchange_page_lists_mthread] Current exchange bandhwidth: 62417 KB/GCycles
+[130582.575991] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.687794] [exchange_page_lists_mthread] Current exchange bandhwidth: 62363 KB/GCycles
+[130582.690049] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.803176] [exchange_page_lists_mthread] Current exchange bandhwidth: 62306 KB/GCycles
+[130582.805545] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130582.918668] [exchange_page_lists_mthread] Current exchange bandhwidth: 62249 KB/GCycles
+[130582.920563] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.033350] [exchange_page_lists_mthread] Current exchange bandhwidth: 62193 KB/GCycles
+[130583.035197] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.147714] [exchange_page_lists_mthread] Current exchange bandhwidth: 62139 KB/GCycles
+[130583.148202] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.258625] [exchange_page_lists_mthread] Current exchange bandhwidth: 62092 KB/GCycles
+[130583.261857] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.374021] [exchange_page_lists_mthread] Current exchange bandhwidth: 62040 KB/GCycles
+[130583.374906] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.485283] [exchange_page_lists_mthread] Current exchange bandhwidth: 61994 KB/GCycles
+[130583.485802] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.596897] [exchange_page_lists_mthread] Current exchange bandhwidth: 61946 KB/GCycles
+[130583.597448] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.709389] [exchange_page_lists_mthread] Current exchange bandhwidth: 61896 KB/GCycles
+[130583.710075] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.822497] [exchange_page_lists_mthread] Current exchange bandhwidth: 61846 KB/GCycles
+[130583.824532] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130583.936784] [exchange_page_lists_mthread] Current exchange bandhwidth: 61796 KB/GCycles
+[130583.939356] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.052435] [exchange_page_lists_mthread] Current exchange bandhwidth: 61745 KB/GCycles
+[130584.053992] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.165637] [exchange_page_lists_mthread] Current exchange bandhwidth: 61698 KB/GCycles
+[130584.166254] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.280092] [exchange_page_lists_mthread] Current exchange bandhwidth: 61646 KB/GCycles
+[130584.280780] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.392896] [exchange_page_lists_mthread] Current exchange bandhwidth: 61599 KB/GCycles
+[130584.394119] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.505511] [exchange_page_lists_mthread] Current exchange bandhwidth: 61554 KB/GCycles
+[130584.508963] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.621296] [exchange_page_lists_mthread] Current exchange bandhwidth: 61507 KB/GCycles
+[130584.623521] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.737523] [exchange_page_lists_mthread] Current exchange bandhwidth: 61455 KB/GCycles
+[130584.738106] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.851373] [exchange_page_lists_mthread] Current exchange bandhwidth: 61407 KB/GCycles
+[130584.851917] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130584.964910] [exchange_page_lists_mthread] Current exchange bandhwidth: 61360 KB/GCycles
+[130584.965728] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.079212] [exchange_page_lists_mthread] Current exchange bandhwidth: 61312 KB/GCycles
+[130585.079903] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.194239] [exchange_page_lists_mthread] Current exchange bandhwidth: 61262 KB/GCycles
+[130585.195915] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.308827] [exchange_page_lists_mthread] Current exchange bandhwidth: 61216 KB/GCycles
+[130585.311588] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.423537] [exchange_page_lists_mthread] Current exchange bandhwidth: 61173 KB/GCycles
+[130585.426786] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.538091] [exchange_page_lists_mthread] Current exchange bandhwidth: 61133 KB/GCycles
+[130585.541905] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.653329] [exchange_page_lists_mthread] Current exchange bandhwidth: 61093 KB/GCycles
+[130585.656018] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.767567] [exchange_page_lists_mthread] Current exchange bandhwidth: 61052 KB/GCycles
+[130585.770314] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.883028] [exchange_page_lists_mthread] Current exchange bandhwidth: 61008 KB/GCycles
+[130585.883813] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130585.994005] [exchange_page_lists_mthread] Current exchange bandhwidth: 60972 KB/GCycles
+[130585.999140] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.113322] [exchange_page_lists_mthread] Current exchange bandhwidth: 60926 KB/GCycles
+[130586.113923] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.225944] [exchange_page_lists_mthread] Current exchange bandhwidth: 60886 KB/GCycles
+[130586.226518] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.340281] [exchange_page_lists_mthread] Current exchange bandhwidth: 60842 KB/GCycles
+[130586.340994] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.433525] [exchange_page_lists_mthread] Current exchange bandhwidth: 60852 KB/GCycles
+[130586.434082] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.514918] [exchange_page_lists_mthread] Current exchange bandhwidth: 60891 KB/GCycles
+[130586.517169] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.590909] [exchange_page_lists_mthread] Current exchange bandhwidth: 60945 KB/GCycles
+[130586.591649] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.623979] [exchange_page_lists_mthread] Current exchange bandhwidth: 61105 KB/GCycles
+[130586.624229] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.659436] [exchange_page_lists_mthread] Current exchange bandhwidth: 61257 KB/GCycles
+[130586.659759] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.695178] [exchange_page_lists_mthread] Current exchange bandhwidth: 61408 KB/GCycles
+[130586.695507] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.732170] [exchange_page_lists_mthread] Current exchange bandhwidth: 61555 KB/GCycles
+[130586.732475] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.769249] [exchange_page_lists_mthread] Current exchange bandhwidth: 61702 KB/GCycles
+[130586.769614] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.807240] [exchange_page_lists_mthread] Current exchange bandhwidth: 61846 KB/GCycles
+[130586.807572] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.844308] [exchange_page_lists_mthread] Current exchange bandhwidth: 61991 KB/GCycles
+[130586.845099] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.879420] [exchange_page_lists_mthread] Current exchange bandhwidth: 62143 KB/GCycles
+[130586.879816] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.915826] [exchange_page_lists_mthread] Current exchange bandhwidth: 62290 KB/GCycles
+[130586.916171] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.952226] [exchange_page_lists_mthread] Current exchange bandhwidth: 62436 KB/GCycles
+[130586.952645] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130586.993017] [exchange_page_lists_mthread] Current exchange bandhwidth: 62571 KB/GCycles
+[130586.993489] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.027975] [exchange_page_lists_mthread] Current exchange bandhwidth: 62720 KB/GCycles
+[130587.028461] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.071057] [exchange_page_lists_mthread] Current exchange bandhwidth: 62848 KB/GCycles
+[130587.071633] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.105834] [exchange_page_lists_mthread] Current exchange bandhwidth: 62998 KB/GCycles
+[130587.106383] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.142045] [exchange_page_lists_mthread] Current exchange bandhwidth: 63143 KB/GCycles
+[130587.142764] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.230808] [exchange_page_lists_mthread] Current exchange bandhwidth: 63155 KB/GCycles
+[130587.231589] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.312914] [exchange_page_lists_mthread] Current exchange bandhwidth: 63184 KB/GCycles
+[130587.315635] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.423006] [exchange_page_lists_mthread] Current exchange bandhwidth: 63147 KB/GCycles
+[130587.424881] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.531460] [exchange_page_lists_mthread] Current exchange bandhwidth: 63113 KB/GCycles
+[130587.535329] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.644329] [exchange_page_lists_mthread] Current exchange bandhwidth: 63073 KB/GCycles
+[130587.647662] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.757838] [exchange_page_lists_mthread] Current exchange bandhwidth: 63031 KB/GCycles
+[130587.760251] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.871378] [exchange_page_lists_mthread] Current exchange bandhwidth: 62986 KB/GCycles
+[130587.873027] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130587.980862] [exchange_page_lists_mthread] Current exchange bandhwidth: 62950 KB/GCycles
+[130587.982356] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.092655] [exchange_page_lists_mthread] Current exchange bandhwidth: 62909 KB/GCycles
+[130588.096201] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.203605] [exchange_page_lists_mthread] Current exchange bandhwidth: 62874 KB/GCycles
+[130588.205349] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.315057] [exchange_page_lists_mthread] Current exchange bandhwidth: 62835 KB/GCycles
+[130588.317637] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.425117] [exchange_page_lists_mthread] Current exchange bandhwidth: 62801 KB/GCycles
+[130588.428628] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.537699] [exchange_page_lists_mthread] Current exchange bandhwidth: 62763 KB/GCycles
+[130588.540220] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.648557] [exchange_page_lists_mthread] Current exchange bandhwidth: 62728 KB/GCycles
+[130588.651591] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.761045] [exchange_page_lists_mthread] Current exchange bandhwidth: 62689 KB/GCycles
+[130588.762971] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130588.892368] [exchange_page_lists_mthread] Current exchange bandhwidth: 62605 KB/GCycles
+[130588.896325] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.028042] [exchange_page_lists_mthread] Current exchange bandhwidth: 62515 KB/GCycles
+[130589.029859] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.164189] [exchange_page_lists_mthread] Current exchange bandhwidth: 62421 KB/GCycles
+[130589.165202] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.296743] [exchange_page_lists_mthread] Current exchange bandhwidth: 62334 KB/GCycles
+[130589.300805] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.429302] [exchange_page_lists_mthread] Current exchange bandhwidth: 62255 KB/GCycles
+[130589.433266] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.564870] [exchange_page_lists_mthread] Current exchange bandhwidth: 62170 KB/GCycles
+[130589.567851] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.699254] [exchange_page_lists_mthread] Current exchange bandhwidth: 62086 KB/GCycles
+[130589.701448] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.834499] [exchange_page_lists_mthread] Current exchange bandhwidth: 61999 KB/GCycles
+[130589.836160] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130589.966266] [exchange_page_lists_mthread] Current exchange bandhwidth: 61920 KB/GCycles
+[130589.970766] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.102674] [exchange_page_lists_mthread] Current exchange bandhwidth: 61837 KB/GCycles
+[130590.105562] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.236488] [exchange_page_lists_mthread] Current exchange bandhwidth: 61757 KB/GCycles
+[130590.237388] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.370581] [exchange_page_lists_mthread] Current exchange bandhwidth: 61673 KB/GCycles
+[130590.372894] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.503427] [exchange_page_lists_mthread] Current exchange bandhwidth: 61596 KB/GCycles
+[130590.507939] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.638518] [exchange_page_lists_mthread] Current exchange bandhwidth: 61519 KB/GCycles
+[130590.642816] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.773259] [exchange_page_lists_mthread] Current exchange bandhwidth: 61443 KB/GCycles
+[130590.776170] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130590.899460] [exchange_page_lists_mthread] Current exchange bandhwidth: 61383 KB/GCycles
+[130590.900520] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.010494] [exchange_page_lists_mthread] Current exchange bandhwidth: 61352 KB/GCycles
+[130591.011389] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.121651] [exchange_page_lists_mthread] Current exchange bandhwidth: 61321 KB/GCycles
+[130591.124047] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.235654] [exchange_page_lists_mthread] Current exchange bandhwidth: 61287 KB/GCycles
+[130591.236669] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.345489] [exchange_page_lists_mthread] Current exchange bandhwidth: 61259 KB/GCycles
+[130591.349089] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.410252] [exchange_page_lists_mthread] Current exchange bandhwidth: 61332 KB/GCycles
+[130591.413872] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.476234] [exchange_page_lists_mthread] Current exchange bandhwidth: 61401 KB/GCycles
+[130591.476953] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.610519] [exchange_page_lists_mthread] Current exchange bandhwidth: 61321 KB/GCycles
+[130591.611266] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.732037] [exchange_page_lists_mthread] Current exchange bandhwidth: 61269 KB/GCycles
+[130591.734661] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.855503] [exchange_page_lists_mthread] Current exchange bandhwidth: 61217 KB/GCycles
+[130591.857796] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130591.979229] [exchange_page_lists_mthread] Current exchange bandhwidth: 61164 KB/GCycles
+[130591.982378] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.104060] [exchange_page_lists_mthread] Current exchange bandhwidth: 61111 KB/GCycles
+[130592.106417] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.215204] [exchange_page_lists_mthread] Current exchange bandhwidth: 61085 KB/GCycles
+[130592.217085] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.314628] [exchange_page_lists_mthread] Current exchange bandhwidth: 61082 KB/GCycles
+[130592.317032] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.412767] [exchange_page_lists_mthread] Current exchange bandhwidth: 61082 KB/GCycles
+[130592.416184] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.510883] [exchange_page_lists_mthread] Current exchange bandhwidth: 61085 KB/GCycles
+[130592.514841] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.609271] [exchange_page_lists_mthread] Current exchange bandhwidth: 61088 KB/GCycles
+[130592.609880] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.712708] [exchange_page_lists_mthread] Current exchange bandhwidth: 61074 KB/GCycles
+[130592.715582] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.810670] [exchange_page_lists_mthread] Current exchange bandhwidth: 61076 KB/GCycles
+[130592.811564] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130592.911773] [exchange_page_lists_mthread] Current exchange bandhwidth: 61068 KB/GCycles
+[130592.915856] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.012122] [exchange_page_lists_mthread] Current exchange bandhwidth: 61067 KB/GCycles
+[130593.016004] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.110685] [exchange_page_lists_mthread] Current exchange bandhwidth: 61070 KB/GCycles
+[130593.114757] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.210203] [exchange_page_lists_mthread] Current exchange bandhwidth: 61071 KB/GCycles
+[130593.213483] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.313783] [exchange_page_lists_mthread] Current exchange bandhwidth: 61060 KB/GCycles
+[130593.317489] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.415415] [exchange_page_lists_mthread] Current exchange bandhwidth: 61057 KB/GCycles
+[130593.416290] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.520574] [exchange_page_lists_mthread] Current exchange bandhwidth: 61041 KB/GCycles
+[130593.521810] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.628445] [exchange_page_lists_mthread] Current exchange bandhwidth: 61020 KB/GCycles
+[130593.629087] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.739959] [exchange_page_lists_mthread] Current exchange bandhwidth: 60991 KB/GCycles
+[130593.740481] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.857196] [exchange_page_lists_mthread] Current exchange bandhwidth: 60951 KB/GCycles
+[130593.857622] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130593.982364] [exchange_page_lists_mthread] Current exchange bandhwidth: 60896 KB/GCycles
+[130593.983093] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.098413] [exchange_page_lists_mthread] Current exchange bandhwidth: 60860 KB/GCycles
+[130594.098857] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.219753] [exchange_page_lists_mthread] Current exchange bandhwidth: 60813 KB/GCycles
+[130594.220492] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.337991] [exchange_page_lists_mthread] Current exchange bandhwidth: 60773 KB/GCycles
+[130594.340611] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.456692] [exchange_page_lists_mthread] Current exchange bandhwidth: 60736 KB/GCycles
+[130594.459916] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.582013] [exchange_page_lists_mthread] Current exchange bandhwidth: 60688 KB/GCycles
+[130594.584294] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.709848] [exchange_page_lists_mthread] Current exchange bandhwidth: 60633 KB/GCycles
+[130594.710682] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.816241] [exchange_page_lists_mthread] Current exchange bandhwidth: 60617 KB/GCycles
+[130594.818765] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130594.918424] [exchange_page_lists_mthread] Current exchange bandhwidth: 60612 KB/GCycles
+[130594.919274] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.020957] [exchange_page_lists_mthread] Current exchange bandhwidth: 60602 KB/GCycles
+[130595.022425] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.118780] [exchange_page_lists_mthread] Current exchange bandhwidth: 60603 KB/GCycles
+[130595.120865] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.216341] [exchange_page_lists_mthread] Current exchange bandhwidth: 60605 KB/GCycles
+[130595.216850] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.311332] [exchange_page_lists_mthread] Current exchange bandhwidth: 60609 KB/GCycles
+[130595.312163] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.414411] [exchange_page_lists_mthread] Current exchange bandhwidth: 60599 KB/GCycles
+[130595.414873] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.506361] [exchange_page_lists_mthread] Current exchange bandhwidth: 60609 KB/GCycles
+[130595.507289] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.601048] [exchange_page_lists_mthread] Current exchange bandhwidth: 60614 KB/GCycles
+[130595.602697] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.696350] [exchange_page_lists_mthread] Current exchange bandhwidth: 60620 KB/GCycles
+[130595.696826] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.791685] [exchange_page_lists_mthread] Current exchange bandhwidth: 60623 KB/GCycles
+[130595.792275] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.893041] [exchange_page_lists_mthread] Current exchange bandhwidth: 60616 KB/GCycles
+[130595.893689] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130595.987472] [exchange_page_lists_mthread] Current exchange bandhwidth: 60621 KB/GCycles
+[130595.988143] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.083777] [exchange_page_lists_mthread] Current exchange bandhwidth: 60623 KB/GCycles
+[130596.084315] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.183071] [exchange_page_lists_mthread] Current exchange bandhwidth: 60620 KB/GCycles
+[130596.183732] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.282012] [exchange_page_lists_mthread] Current exchange bandhwidth: 60617 KB/GCycles
+[130596.282436] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.377969] [exchange_page_lists_mthread] Current exchange bandhwidth: 60619 KB/GCycles
+[130596.378396] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.473254] [exchange_page_lists_mthread] Current exchange bandhwidth: 60622 KB/GCycles
+[130596.473965] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.569344] [exchange_page_lists_mthread] Current exchange bandhwidth: 60625 KB/GCycles
+[130596.569908] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.666744] [exchange_page_lists_mthread] Current exchange bandhwidth: 60625 KB/GCycles
+[130596.667492] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.762541] [exchange_page_lists_mthread] Current exchange bandhwidth: 60628 KB/GCycles
+[130596.763137] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.861474] [exchange_page_lists_mthread] Current exchange bandhwidth: 60625 KB/GCycles
+[130596.862190] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130596.956175] [exchange_page_lists_mthread] Current exchange bandhwidth: 60630 KB/GCycles
+[130596.956895] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.056135] [exchange_page_lists_mthread] Current exchange bandhwidth: 60625 KB/GCycles
+[130597.056819] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.147967] [exchange_page_lists_mthread] Current exchange bandhwidth: 60635 KB/GCycles
+[130597.149833] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.240368] [exchange_page_lists_mthread] Current exchange bandhwidth: 60645 KB/GCycles
+[130597.243832] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.336548] [exchange_page_lists_mthread] Current exchange bandhwidth: 60652 KB/GCycles
+[130597.337203] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.433304] [exchange_page_lists_mthread] Current exchange bandhwidth: 60653 KB/GCycles
+[130597.434200] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.529115] [exchange_page_lists_mthread] Current exchange bandhwidth: 60656 KB/GCycles
+[130597.530504] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.627233] [exchange_page_lists_mthread] Current exchange bandhwidth: 60656 KB/GCycles
+[130597.627915] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.720577] [exchange_page_lists_mthread] Current exchange bandhwidth: 60663 KB/GCycles
+[130597.723689] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.814429] [exchange_page_lists_mthread] Current exchange bandhwidth: 60672 KB/GCycles
+[130597.817644] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130597.909426] [exchange_page_lists_mthread] Current exchange bandhwidth: 60680 KB/GCycles
+[130597.911077] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.004774] [exchange_page_lists_mthread] Current exchange bandhwidth: 60685 KB/GCycles
+[130598.005425] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.102517] [exchange_page_lists_mthread] Current exchange bandhwidth: 60685 KB/GCycles
+[130598.103114] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.199804] [exchange_page_lists_mthread] Current exchange bandhwidth: 60685 KB/GCycles
+[130598.201353] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.295795] [exchange_page_lists_mthread] Current exchange bandhwidth: 60688 KB/GCycles
+[130598.435867] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.501335] [exchange_page_lists_mthread] Current exchange bandhwidth: 60741 KB/GCycles
+[130598.501477] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.534927] [exchange_page_lists_mthread] Current exchange bandhwidth: 60847 KB/GCycles
+[130598.535066] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.570194] [exchange_page_lists_mthread] Current exchange bandhwidth: 60951 KB/GCycles
+[130598.570343] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.656281] [exchange_page_lists_mthread] Current exchange bandhwidth: 60968 KB/GCycles
+[130598.656636] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.750459] [exchange_page_lists_mthread] Current exchange bandhwidth: 60972 KB/GCycles
+[130598.750712] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.843640] [exchange_page_lists_mthread] Current exchange bandhwidth: 60977 KB/GCycles
+[130598.843946] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130598.937412] [exchange_page_lists_mthread] Current exchange bandhwidth: 60982 KB/GCycles
+[130603.430338] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130603.537905] [exchange_page_lists_mthread] Current exchange bandhwidth: 60963 KB/GCycles
+[130603.538307] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130603.640577] [exchange_page_lists_mthread] Current exchange bandhwidth: 60953 KB/GCycles
+[130603.640970] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130603.746797] [exchange_page_lists_mthread] Current exchange bandhwidth: 60937 KB/GCycles
+[130603.747200] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130603.853693] [exchange_page_lists_mthread] Current exchange bandhwidth: 60920 KB/GCycles
+[130603.854188] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130603.957144] [exchange_page_lists_mthread] Current exchange bandhwidth: 60909 KB/GCycles
+[130603.957573] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130604.059267] [exchange_page_lists_mthread] Current exchange bandhwidth: 60900 KB/GCycles
+[130604.059692] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130604.161248] [exchange_page_lists_mthread] Current exchange bandhwidth: 60891 KB/GCycles
+[130608.419921] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130608.508373] [exchange_page_lists_mthread] Current exchange bandhwidth: 60904 KB/GCycles
+[130608.508596] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130608.601216] [exchange_page_lists_mthread] Current exchange bandhwidth: 60910 KB/GCycles
+[130608.601468] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130608.695948] [exchange_page_lists_mthread] Current exchange bandhwidth: 60913 KB/GCycles
+[130608.696147] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130608.793002] [exchange_page_lists_mthread] Current exchange bandhwidth: 60912 KB/GCycles
+[130608.793230] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130608.883920] [exchange_page_lists_mthread] Current exchange bandhwidth: 60921 KB/GCycles
+[130608.884160] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130608.979239] [exchange_page_lists_mthread] Current exchange bandhwidth: 60923 KB/GCycles
+[130608.979989] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130609.074689] [exchange_page_lists_mthread] Current exchange bandhwidth: 60926 KB/GCycles
+[130609.074864] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130609.133421] [exchange_page_lists_mthread] Current exchange bandhwidth: 60928 KB/GCycles
+[130613.416588] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.502287] [exchange_page_lists_mthread] Current exchange bandhwidth: 60945 KB/GCycles
+[130613.502486] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.574144] [exchange_page_lists_mthread] Current exchange bandhwidth: 60985 KB/GCycles
+[130613.574293] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.608921] [exchange_page_lists_mthread] Current exchange bandhwidth: 61083 KB/GCycles
+[130613.609095] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.684365] [exchange_page_lists_mthread] Current exchange bandhwidth: 61117 KB/GCycles
+[130613.684604] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.778447] [exchange_page_lists_mthread] Current exchange bandhwidth: 61120 KB/GCycles
+[130613.778744] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.872798] [exchange_page_lists_mthread] Current exchange bandhwidth: 61123 KB/GCycles
+[130613.873031] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130613.966392] [exchange_page_lists_mthread] Current exchange bandhwidth: 61127 KB/GCycles
+[130613.966667] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.058349] [exchange_page_lists_mthread] Current exchange bandhwidth: 61134 KB/GCycles
+[130614.058825] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.149415] [exchange_page_lists_mthread] Current exchange bandhwidth: 61142 KB/GCycles
+[130614.149693] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.243980] [exchange_page_lists_mthread] Current exchange bandhwidth: 61145 KB/GCycles
+[130614.244340] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.336876] [exchange_page_lists_mthread] Current exchange bandhwidth: 61150 KB/GCycles
+[130614.337947] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.429997] [exchange_page_lists_mthread] Current exchange bandhwidth: 61156 KB/GCycles
+[130614.431089] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.522969] [exchange_page_lists_mthread] Current exchange bandhwidth: 61163 KB/GCycles
+[130614.523520] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.613877] [exchange_page_lists_mthread] Current exchange bandhwidth: 61171 KB/GCycles
+[130614.614728] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.702719] [exchange_page_lists_mthread] Current exchange bandhwidth: 61184 KB/GCycles
+[130614.703530] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.777232] [exchange_page_lists_mthread] Current exchange bandhwidth: 61218 KB/GCycles
+[130614.777655] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.834193] [exchange_page_lists_mthread] Current exchange bandhwidth: 61279 KB/GCycles
+[130614.835953] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.884915] [exchange_page_lists_mthread] Current exchange bandhwidth: 61352 KB/GCycles
+[130614.885316] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.930267] [exchange_page_lists_mthread] Current exchange bandhwidth: 61431 KB/GCycles
+[130614.931098] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130614.965754] [exchange_page_lists_mthread] Current exchange bandhwidth: 61526 KB/GCycles
+[130614.966239] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130615.047909] [exchange_page_lists_mthread] Current exchange bandhwidth: 61547 KB/GCycles
+[130615.048577] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130615.127488] [exchange_page_lists_mthread] Current exchange bandhwidth: 61573 KB/GCycles
+[130615.129879] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130615.202942] [exchange_page_lists_mthread] Current exchange bandhwidth: 61607 KB/GCycles
+[130615.203714] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130615.283715] [exchange_page_lists_mthread] Current exchange bandhwidth: 61612 KB/GCycles
+[130618.417550] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.494688] [exchange_page_lists_mthread] Current exchange bandhwidth: 61640 KB/GCycles
+[130618.495140] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.572839] [exchange_page_lists_mthread] Current exchange bandhwidth: 61667 KB/GCycles
+[130618.573287] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.651169] [exchange_page_lists_mthread] Current exchange bandhwidth: 61693 KB/GCycles
+[130618.651721] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.705943] [exchange_page_lists_mthread] Current exchange bandhwidth: 61757 KB/GCycles
+[130618.706162] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.775331] [exchange_page_lists_mthread] Current exchange bandhwidth: 61796 KB/GCycles
+[130618.775797] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.853123] [exchange_page_lists_mthread] Current exchange bandhwidth: 61823 KB/GCycles
+[130618.853742] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130618.933517] [exchange_page_lists_mthread] Current exchange bandhwidth: 61847 KB/GCycles
+[130618.934145] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.012884] [exchange_page_lists_mthread] Current exchange bandhwidth: 61871 KB/GCycles
+[130619.014842] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.093546] [exchange_page_lists_mthread] Current exchange bandhwidth: 61896 KB/GCycles
+[130619.095381] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.172929] [exchange_page_lists_mthread] Current exchange bandhwidth: 61922 KB/GCycles
+[130619.175045] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.252166] [exchange_page_lists_mthread] Current exchange bandhwidth: 61949 KB/GCycles
+[130619.256031] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.332143] [exchange_page_lists_mthread] Current exchange bandhwidth: 61977 KB/GCycles
+[130619.335358] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.389372] [exchange_page_lists_mthread] Current exchange bandhwidth: 62039 KB/GCycles
+[130619.389893] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.446362] [exchange_page_lists_mthread] Current exchange bandhwidth: 62097 KB/GCycles
+[130619.447062] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.498598] [exchange_page_lists_mthread] Current exchange bandhwidth: 62163 KB/GCycles
+[130619.499077] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.554758] [exchange_page_lists_mthread] Current exchange bandhwidth: 62221 KB/GCycles
+[130619.555156] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.606528] [exchange_page_lists_mthread] Current exchange bandhwidth: 62287 KB/GCycles
+[130619.607058] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.662802] [exchange_page_lists_mthread] Current exchange bandhwidth: 62345 KB/GCycles
+[130619.663320] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.719365] [exchange_page_lists_mthread] Current exchange bandhwidth: 62403 KB/GCycles
+[130619.720973] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.773271] [exchange_page_lists_mthread] Current exchange bandhwidth: 62466 KB/GCycles
+[130619.773843] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.833209] [exchange_page_lists_mthread] Current exchange bandhwidth: 62519 KB/GCycles
+[130619.839639] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130619.852846] [exchange_page_lists_mthread] Current exchange bandhwidth: 62543 KB/GCycles
+[130623.418544] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130623.502002] [exchange_page_lists_mthread] Current exchange bandhwidth: 62558 KB/GCycles
+[130623.502257] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130623.592118] [exchange_page_lists_mthread] Current exchange bandhwidth: 62564 KB/GCycles
+[130623.592306] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130623.686661] [exchange_page_lists_mthread] Current exchange bandhwidth: 62563 KB/GCycles
+[130623.686886] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130623.735540] [exchange_page_lists_mthread] Current exchange bandhwidth: 62631 KB/GCycles
+[130623.735757] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130623.818718] [exchange_page_lists_mthread] Current exchange bandhwidth: 62648 KB/GCycles
+[130623.818953] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130623.916273] [exchange_page_lists_mthread] Current exchange bandhwidth: 62642 KB/GCycles
+[130623.916525] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130624.010780] [exchange_page_lists_mthread] Current exchange bandhwidth: 62641 KB/GCycles
+[130624.011018] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130624.105681] [exchange_page_lists_mthread] Current exchange bandhwidth: 62639 KB/GCycles
+[130624.105927] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130624.198798] [exchange_page_lists_mthread] Current exchange bandhwidth: 62641 KB/GCycles
+[130624.199057] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130624.290488] [exchange_page_lists_mthread] Current exchange bandhwidth: 62644 KB/GCycles
+[130624.290554] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130624.300808] [exchange_page_lists_mthread] Current exchange bandhwidth: 62646 KB/GCycles
+[130628.420063] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.507541] [exchange_page_lists_mthread] Current exchange bandhwidth: 62655 KB/GCycles
+[130628.507789] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.598338] [exchange_page_lists_mthread] Current exchange bandhwidth: 62660 KB/GCycles
+[130628.598523] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.693042] [exchange_page_lists_mthread] Current exchange bandhwidth: 62658 KB/GCycles
+[130628.693276] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.781705] [exchange_page_lists_mthread] Current exchange bandhwidth: 62666 KB/GCycles
+[130628.781924] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.856950] [exchange_page_lists_mthread] Current exchange bandhwidth: 62693 KB/GCycles
+[130628.857104] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.898708] [exchange_page_lists_mthread] Current exchange bandhwidth: 62770 KB/GCycles
+[130628.898913] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130628.992197] [exchange_page_lists_mthread] Current exchange bandhwidth: 62770 KB/GCycles
+[130628.992455] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130629.084387] [exchange_page_lists_mthread] Current exchange bandhwidth: 62773 KB/GCycles
+[130629.084451] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130629.094051] [exchange_page_lists_mthread] Current exchange bandhwidth: 62776 KB/GCycles
+[130633.424650] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.482579] [exchange_page_lists_mthread] Current exchange bandhwidth: 62828 KB/GCycles
+[130633.482849] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.542939] [exchange_page_lists_mthread] Current exchange bandhwidth: 62877 KB/GCycles
+[130633.543148] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.605257] [exchange_page_lists_mthread] Current exchange bandhwidth: 62922 KB/GCycles
+[130633.605506] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.668919] [exchange_page_lists_mthread] Current exchange bandhwidth: 62966 KB/GCycles
+[130633.669105] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.761348] [exchange_page_lists_mthread] Current exchange bandhwidth: 62967 KB/GCycles
+[130633.761620] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.855489] [exchange_page_lists_mthread] Current exchange bandhwidth: 62966 KB/GCycles
+[130633.855794] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130633.951650] [exchange_page_lists_mthread] Current exchange bandhwidth: 62962 KB/GCycles
+[130633.952125] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.050870] [exchange_page_lists_mthread] Current exchange bandhwidth: 62954 KB/GCycles
+[130634.051406] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.154134] [exchange_page_lists_mthread] Current exchange bandhwidth: 62940 KB/GCycles
+[130634.154812] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.259498] [exchange_page_lists_mthread] Current exchange bandhwidth: 62924 KB/GCycles
+[130634.261809] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.366734] [exchange_page_lists_mthread] Current exchange bandhwidth: 62907 KB/GCycles
+[130634.367307] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.471828] [exchange_page_lists_mthread] Current exchange bandhwidth: 62890 KB/GCycles
+[130634.472318] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.575246] [exchange_page_lists_mthread] Current exchange bandhwidth: 62877 KB/GCycles
+[130634.578825] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.684204] [exchange_page_lists_mthread] Current exchange bandhwidth: 62859 KB/GCycles
+[130634.684744] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.787482] [exchange_page_lists_mthread] Current exchange bandhwidth: 62846 KB/GCycles
+[130634.789635] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.890142] [exchange_page_lists_mthread] Current exchange bandhwidth: 62836 KB/GCycles
+[130634.893649] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130634.994945] [exchange_page_lists_mthread] Current exchange bandhwidth: 62824 KB/GCycles
+[130634.998597] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130635.103159] [exchange_page_lists_mthread] Current exchange bandhwidth: 62808 KB/GCycles
+[130635.104164] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130635.207203] [exchange_page_lists_mthread] Current exchange bandhwidth: 62795 KB/GCycles
+[130635.207387] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130635.222737] [exchange_page_lists_mthread] Current exchange bandhwidth: 62789 KB/GCycles
+[130638.438482] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130638.543337] [exchange_page_lists_mthread] Current exchange bandhwidth: 62773 KB/GCycles
+[130638.543819] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130638.649076] [exchange_page_lists_mthread] Current exchange bandhwidth: 62757 KB/GCycles
+[130638.649450] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130638.752034] [exchange_page_lists_mthread] Current exchange bandhwidth: 62744 KB/GCycles
+[130638.752519] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130638.858280] [exchange_page_lists_mthread] Current exchange bandhwidth: 62727 KB/GCycles
+[130638.858710] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130638.961296] [exchange_page_lists_mthread] Current exchange bandhwidth: 62714 KB/GCycles
+[130638.962096] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.059545] [exchange_page_lists_mthread] Current exchange bandhwidth: 62709 KB/GCycles
+[130639.059778] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.138912] [exchange_page_lists_mthread] Current exchange bandhwidth: 62729 KB/GCycles
+[130639.139211] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.214372] [exchange_page_lists_mthread] Current exchange bandhwidth: 62754 KB/GCycles
+[130639.214747] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.251506] [exchange_page_lists_mthread] Current exchange bandhwidth: 62833 KB/GCycles
+[130639.251923] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.294397] [exchange_page_lists_mthread] Current exchange bandhwidth: 62903 KB/GCycles
+[130639.295261] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.335590] [exchange_page_lists_mthread] Current exchange bandhwidth: 62976 KB/GCycles
+[130639.336980] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.373321] [exchange_page_lists_mthread] Current exchange bandhwidth: 63055 KB/GCycles
+[130639.373743] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.415239] [exchange_page_lists_mthread] Current exchange bandhwidth: 63127 KB/GCycles
+[130639.416858] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.455869] [exchange_page_lists_mthread] Current exchange bandhwidth: 63202 KB/GCycles
+[130639.456489] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130639.484406] [exchange_page_lists_mthread] Current exchange bandhwidth: 63243 KB/GCycles
+[130643.437953] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.461301] [exchange_page_lists_mthread] Current exchange bandhwidth: 63340 KB/GCycles
+[130643.461520] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.503736] [exchange_page_lists_mthread] Current exchange bandhwidth: 63410 KB/GCycles
+[130643.503972] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.556069] [exchange_page_lists_mthread] Current exchange bandhwidth: 63466 KB/GCycles
+[130643.556319] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.609345] [exchange_page_lists_mthread] Current exchange bandhwidth: 63521 KB/GCycles
+[130643.609586] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.664262] [exchange_page_lists_mthread] Current exchange bandhwidth: 63573 KB/GCycles
+[130643.664663] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.715260] [exchange_page_lists_mthread] Current exchange bandhwidth: 63631 KB/GCycles
+[130643.715530] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.771540] [exchange_page_lists_mthread] Current exchange bandhwidth: 63681 KB/GCycles
+[130643.771829] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.826615] [exchange_page_lists_mthread] Current exchange bandhwidth: 63733 KB/GCycles
+[130643.827148] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.877503] [exchange_page_lists_mthread] Current exchange bandhwidth: 63791 KB/GCycles
+[130643.878061] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.930281] [exchange_page_lists_mthread] Current exchange bandhwidth: 63846 KB/GCycles
+[130643.930616] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130643.983483] [exchange_page_lists_mthread] Current exchange bandhwidth: 63900 KB/GCycles
+[130643.984162] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.036211] [exchange_page_lists_mthread] Current exchange bandhwidth: 63955 KB/GCycles
+[130644.038115] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.086953] [exchange_page_lists_mthread] Current exchange bandhwidth: 64015 KB/GCycles
+[130644.088364] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.137576] [exchange_page_lists_mthread] Current exchange bandhwidth: 64073 KB/GCycles
+[130644.138051] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.193210] [exchange_page_lists_mthread] Current exchange bandhwidth: 64124 KB/GCycles
+[130644.193774] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.250950] [exchange_page_lists_mthread] Current exchange bandhwidth: 64171 KB/GCycles
+[130644.251439] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.302429] [exchange_page_lists_mthread] Current exchange bandhwidth: 64227 KB/GCycles
+[130644.302939] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.375015] [exchange_page_lists_mthread] Current exchange bandhwidth: 64254 KB/GCycles
+[130644.375093] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130644.385405] [exchange_page_lists_mthread] Current exchange bandhwidth: 64255 KB/GCycles
+[130648.427120] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130648.518447] [exchange_page_lists_mthread] Current exchange bandhwidth: 64255 KB/GCycles
+[130648.519066] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130648.607590] [exchange_page_lists_mthread] Current exchange bandhwidth: 64259 KB/GCycles
+[130648.608148] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130648.699179] [exchange_page_lists_mthread] Current exchange bandhwidth: 64259 KB/GCycles
+[130648.699528] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130648.791188] [exchange_page_lists_mthread] Current exchange bandhwidth: 64259 KB/GCycles
+[130648.791758] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130648.881115] [exchange_page_lists_mthread] Current exchange bandhwidth: 64261 KB/GCycles
+[130648.881668] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130648.970322] [exchange_page_lists_mthread] Current exchange bandhwidth: 64265 KB/GCycles
+[130648.971229] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.022895] [exchange_page_lists_mthread] Current exchange bandhwidth: 64319 KB/GCycles
+[130649.023119] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.091440] [exchange_page_lists_mthread] Current exchange bandhwidth: 64350 KB/GCycles
+[130649.092231] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.179356] [exchange_page_lists_mthread] Current exchange bandhwidth: 64356 KB/GCycles
+[130649.181663] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.273433] [exchange_page_lists_mthread] Current exchange bandhwidth: 64355 KB/GCycles
+[130649.274206] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.370139] [exchange_page_lists_mthread] Current exchange bandhwidth: 64348 KB/GCycles
+[130649.370647] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.476652] [exchange_page_lists_mthread] Current exchange bandhwidth: 64328 KB/GCycles
+[130649.478006] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.587717] [exchange_page_lists_mthread] Current exchange bandhwidth: 64303 KB/GCycles
+[130649.590312] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.702167] [exchange_page_lists_mthread] Current exchange bandhwidth: 64275 KB/GCycles
+[130649.703714] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.815493] [exchange_page_lists_mthread] Current exchange bandhwidth: 64248 KB/GCycles
+[130649.816314] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130649.928614] [exchange_page_lists_mthread] Current exchange bandhwidth: 64220 KB/GCycles
+[130649.931458] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130650.041624] [exchange_page_lists_mthread] Current exchange bandhwidth: 64194 KB/GCycles
+[130650.044543] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130650.147451] [exchange_page_lists_mthread] Current exchange bandhwidth: 64179 KB/GCycles
+[130650.147569] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130650.164059] [exchange_page_lists_mthread] Current exchange bandhwidth: 64172 KB/GCycles
+[130653.418353] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.455210] [exchange_page_lists_mthread] Current exchange bandhwidth: 64245 KB/GCycles
+[130653.455427] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.493534] [exchange_page_lists_mthread] Current exchange bandhwidth: 64316 KB/GCycles
+[130653.493712] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.531722] [exchange_page_lists_mthread] Current exchange bandhwidth: 64387 KB/GCycles
+[130653.531891] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.574417] [exchange_page_lists_mthread] Current exchange bandhwidth: 64452 KB/GCycles
+[130653.574697] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.626736] [exchange_page_lists_mthread] Current exchange bandhwidth: 64503 KB/GCycles
+[130653.626980] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.677945] [exchange_page_lists_mthread] Current exchange bandhwidth: 64557 KB/GCycles
+[130653.678201] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.722035] [exchange_page_lists_mthread] Current exchange bandhwidth: 64619 KB/GCycles
+[130653.722482] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.789978] [exchange_page_lists_mthread] Current exchange bandhwidth: 64650 KB/GCycles
+[130653.790635] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.859964] [exchange_page_lists_mthread] Current exchange bandhwidth: 64679 KB/GCycles
+[130653.860271] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130653.942201] [exchange_page_lists_mthread] Current exchange bandhwidth: 64691 KB/GCycles
+[130653.942504] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.032658] [exchange_page_lists_mthread] Current exchange bandhwidth: 64691 KB/GCycles
+[130654.035403] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.126017] [exchange_page_lists_mthread] Current exchange bandhwidth: 64691 KB/GCycles
+[130654.131461] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.224848] [exchange_page_lists_mthread] Current exchange bandhwidth: 64688 KB/GCycles
+[130654.227486] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.314094] [exchange_page_lists_mthread] Current exchange bandhwidth: 64693 KB/GCycles
+[130654.317626] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.374523] [exchange_page_lists_mthread] Current exchange bandhwidth: 64737 KB/GCycles
+[130654.377656] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.456280] [exchange_page_lists_mthread] Current exchange bandhwidth: 64753 KB/GCycles
+[130654.459117] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130654.543228] [exchange_page_lists_mthread] Current exchange bandhwidth: 64747 KB/GCycles
+[130658.418619] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.450212] [exchange_page_lists_mthread] Current exchange bandhwidth: 64824 KB/GCycles
+[130658.450445] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.489058] [exchange_page_lists_mthread] Current exchange bandhwidth: 64892 KB/GCycles
+[130658.489231] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.528981] [exchange_page_lists_mthread] Current exchange bandhwidth: 64959 KB/GCycles
+[130658.529154] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.569347] [exchange_page_lists_mthread] Current exchange bandhwidth: 65025 KB/GCycles
+[130658.569573] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.610044] [exchange_page_lists_mthread] Current exchange bandhwidth: 65090 KB/GCycles
+[130658.610253] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.651813] [exchange_page_lists_mthread] Current exchange bandhwidth: 65154 KB/GCycles
+[130658.652036] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.695211] [exchange_page_lists_mthread] Current exchange bandhwidth: 65216 KB/GCycles
+[130658.695437] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.732811] [exchange_page_lists_mthread] Current exchange bandhwidth: 65285 KB/GCycles
+[130658.733003] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130658.804178] [exchange_page_lists_mthread] Current exchange bandhwidth: 65295 KB/GCycles
+[130663.432508] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.508990] [exchange_page_lists_mthread] Current exchange bandhwidth: 65312 KB/GCycles
+[130663.509481] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.587138] [exchange_page_lists_mthread] Current exchange bandhwidth: 65328 KB/GCycles
+[130663.587564] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.666194] [exchange_page_lists_mthread] Current exchange bandhwidth: 65343 KB/GCycles
+[130663.666628] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.732641] [exchange_page_lists_mthread] Current exchange bandhwidth: 65374 KB/GCycles
+[130663.732854] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.785060] [exchange_page_lists_mthread] Current exchange bandhwidth: 65423 KB/GCycles
+[130663.785322] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.846011] [exchange_page_lists_mthread] Current exchange bandhwidth: 65461 KB/GCycles
+[130663.846324] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.900057] [exchange_page_lists_mthread] Current exchange bandhwidth: 65508 KB/GCycles
+[130663.900372] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.941424] [exchange_page_lists_mthread] Current exchange bandhwidth: 65571 KB/GCycles
+[130663.941694] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130663.984407] [exchange_page_lists_mthread] Current exchange bandhwidth: 65632 KB/GCycles
+[130663.985031] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130664.024367] [exchange_page_lists_mthread] Current exchange bandhwidth: 65698 KB/GCycles
+[130664.024635] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130664.067945] [exchange_page_lists_mthread] Current exchange bandhwidth: 65758 KB/GCycles
+[130664.068402] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130664.106653] [exchange_page_lists_mthread] Current exchange bandhwidth: 65824 KB/GCycles
+[130664.107787] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130664.146097] [exchange_page_lists_mthread] Current exchange bandhwidth: 65891 KB/GCycles
+[130668.434166] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130668.525249] [exchange_page_lists_mthread] Current exchange bandhwidth: 65888 KB/GCycles
+[130668.525569] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130668.616028] [exchange_page_lists_mthread] Current exchange bandhwidth: 65886 KB/GCycles
+[130668.616319] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130668.712883] [exchange_page_lists_mthread] Current exchange bandhwidth: 65876 KB/GCycles
+[130668.713183] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130668.807770] [exchange_page_lists_mthread] Current exchange bandhwidth: 65869 KB/GCycles
+[130668.808059] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130668.903599] [exchange_page_lists_mthread] Current exchange bandhwidth: 65861 KB/GCycles
+[130668.903941] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.007728] [exchange_page_lists_mthread] Current exchange bandhwidth: 65842 KB/GCycles
+[130669.008139] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.117988] [exchange_page_lists_mthread] Current exchange bandhwidth: 65815 KB/GCycles
+[130669.118435] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.233917] [exchange_page_lists_mthread] Current exchange bandhwidth: 65781 KB/GCycles
+[130669.234427] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.349854] [exchange_page_lists_mthread] Current exchange bandhwidth: 65747 KB/GCycles
+[130669.351386] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.456828] [exchange_page_lists_mthread] Current exchange bandhwidth: 65726 KB/GCycles
+[130669.457091] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.492019] [exchange_page_lists_mthread] Current exchange bandhwidth: 65796 KB/GCycles
+[130669.492238] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.560323] [exchange_page_lists_mthread] Current exchange bandhwidth: 65822 KB/GCycles
+[130669.561800] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.655436] [exchange_page_lists_mthread] Current exchange bandhwidth: 65817 KB/GCycles
+[130669.656034] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.754269] [exchange_page_lists_mthread] Current exchange bandhwidth: 65805 KB/GCycles
+[130669.754815] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.853855] [exchange_page_lists_mthread] Current exchange bandhwidth: 65792 KB/GCycles
+[130669.854663] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130669.959851] [exchange_page_lists_mthread] Current exchange bandhwidth: 65772 KB/GCycles
+[130669.962388] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.070351] [exchange_page_lists_mthread] Current exchange bandhwidth: 65748 KB/GCycles
+[130670.074142] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.182944] [exchange_page_lists_mthread] Current exchange bandhwidth: 65723 KB/GCycles
+[130670.188476] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.300224] [exchange_page_lists_mthread] Current exchange bandhwidth: 65695 KB/GCycles
+[130670.301057] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.415672] [exchange_page_lists_mthread] Current exchange bandhwidth: 65663 KB/GCycles
+[130670.418602] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.538599] [exchange_page_lists_mthread] Current exchange bandhwidth: 65625 KB/GCycles
+[130670.541377] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.666898] [exchange_page_lists_mthread] Current exchange bandhwidth: 65580 KB/GCycles
+[130670.672134] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.704046] [exchange_page_lists_mthread] Current exchange bandhwidth: 65651 KB/GCycles
+[130670.704353] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.765422] [exchange_page_lists_mthread] Current exchange bandhwidth: 65687 KB/GCycles
+[130670.765775] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130670.827102] [exchange_page_lists_mthread] Current exchange bandhwidth: 65680 KB/GCycles
+[130673.421266] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130673.528869] [exchange_page_lists_mthread] Current exchange bandhwidth: 65657 KB/GCycles
+[130673.529214] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130673.639351] [exchange_page_lists_mthread] Current exchange bandhwidth: 65631 KB/GCycles
+[130673.639652] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130673.751386] [exchange_page_lists_mthread] Current exchange bandhwidth: 65603 KB/GCycles
+[130673.751805] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130673.862679] [exchange_page_lists_mthread] Current exchange bandhwidth: 65577 KB/GCycles
+[130673.863066] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130673.975991] [exchange_page_lists_mthread] Current exchange bandhwidth: 65548 KB/GCycles
+[130673.976331] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.088283] [exchange_page_lists_mthread] Current exchange bandhwidth: 65520 KB/GCycles
+[130674.088817] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.190322] [exchange_page_lists_mthread] Current exchange bandhwidth: 65506 KB/GCycles
+[130674.190841] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.294846] [exchange_page_lists_mthread] Current exchange bandhwidth: 65488 KB/GCycles
+[130674.295799] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.399098] [exchange_page_lists_mthread] Current exchange bandhwidth: 65471 KB/GCycles
+[130674.399619] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.493598] [exchange_page_lists_mthread] Current exchange bandhwidth: 65466 KB/GCycles
+[130674.494014] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.588598] [exchange_page_lists_mthread] Current exchange bandhwidth: 65460 KB/GCycles
+[130674.589308] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.686052] [exchange_page_lists_mthread] Current exchange bandhwidth: 65451 KB/GCycles
+[130674.688323] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.762124] [exchange_page_lists_mthread] Current exchange bandhwidth: 65470 KB/GCycles
+[130674.762526] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.847051] [exchange_page_lists_mthread] Current exchange bandhwidth: 65476 KB/GCycles
+[130674.852515] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130674.943719] [exchange_page_lists_mthread] Current exchange bandhwidth: 65474 KB/GCycles
+[130674.948662] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130675.039528] [exchange_page_lists_mthread] Current exchange bandhwidth: 65472 KB/GCycles
+[130675.042587] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130675.145062] [exchange_page_lists_mthread] Current exchange bandhwidth: 65457 KB/GCycles
+[130675.147743] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130675.255627] [exchange_page_lists_mthread] Current exchange bandhwidth: 65435 KB/GCycles
+[130675.259318] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130675.369639] [exchange_page_lists_mthread] Current exchange bandhwidth: 65410 KB/GCycles
+[130675.385229] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130675.411843] [exchange_page_lists_mthread] Current exchange bandhwidth: 65400 KB/GCycles
+[130678.425184] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.491865] [exchange_page_lists_mthread] Current exchange bandhwidth: 65428 KB/GCycles
+[130678.492123] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.552825] [exchange_page_lists_mthread] Current exchange bandhwidth: 65462 KB/GCycles
+[130678.553016] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.602146] [exchange_page_lists_mthread] Current exchange bandhwidth: 65511 KB/GCycles
+[130678.602433] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.694121] [exchange_page_lists_mthread] Current exchange bandhwidth: 65508 KB/GCycles
+[130678.694440] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.785715] [exchange_page_lists_mthread] Current exchange bandhwidth: 65506 KB/GCycles
+[130678.785929] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.874661] [exchange_page_lists_mthread] Current exchange bandhwidth: 65507 KB/GCycles
+[130678.875444] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130678.951189] [exchange_page_lists_mthread] Current exchange bandhwidth: 65523 KB/GCycles
+[130678.951403] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130679.034195] [exchange_page_lists_mthread] Current exchange bandhwidth: 65531 KB/GCycles
+[130679.034618] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130679.125826] [exchange_page_lists_mthread] Current exchange bandhwidth: 65529 KB/GCycles
+[130679.126874] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130679.221278] [exchange_page_lists_mthread] Current exchange bandhwidth: 65523 KB/GCycles
+[130679.221963] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130679.332442] [exchange_page_lists_mthread] Current exchange bandhwidth: 65499 KB/GCycles
+[130679.332984] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130679.435765] [exchange_page_lists_mthread] Current exchange bandhwidth: 65470 KB/GCycles
+[130683.421526] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.468210] [exchange_page_lists_mthread] Current exchange bandhwidth: 65520 KB/GCycles
+[130683.468430] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.516905] [exchange_page_lists_mthread] Current exchange bandhwidth: 65569 KB/GCycles
+[130683.517121] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.569132] [exchange_page_lists_mthread] Current exchange bandhwidth: 65613 KB/GCycles
+[130683.569398] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.622639] [exchange_page_lists_mthread] Current exchange bandhwidth: 65655 KB/GCycles
+[130683.622933] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.673677] [exchange_page_lists_mthread] Current exchange bandhwidth: 65700 KB/GCycles
+[130683.673905] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.728798] [exchange_page_lists_mthread] Current exchange bandhwidth: 65741 KB/GCycles
+[130683.729032] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.784016] [exchange_page_lists_mthread] Current exchange bandhwidth: 65781 KB/GCycles
+[130683.784352] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.836851] [exchange_page_lists_mthread] Current exchange bandhwidth: 65824 KB/GCycles
+[130683.837153] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.891252] [exchange_page_lists_mthread] Current exchange bandhwidth: 65865 KB/GCycles
+[130683.891553] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.945517] [exchange_page_lists_mthread] Current exchange bandhwidth: 65906 KB/GCycles
+[130683.946257] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130683.997307] [exchange_page_lists_mthread] Current exchange bandhwidth: 65951 KB/GCycles
+[130683.997920] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.050611] [exchange_page_lists_mthread] Current exchange bandhwidth: 65993 KB/GCycles
+[130684.051332] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.104024] [exchange_page_lists_mthread] Current exchange bandhwidth: 66035 KB/GCycles
+[130684.104482] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.159146] [exchange_page_lists_mthread] Current exchange bandhwidth: 66075 KB/GCycles
+[130684.161715] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.223407] [exchange_page_lists_mthread] Current exchange bandhwidth: 66107 KB/GCycles
+[130684.225830] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.274968] [exchange_page_lists_mthread] Current exchange bandhwidth: 66153 KB/GCycles
+[130684.275533] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.340110] [exchange_page_lists_mthread] Current exchange bandhwidth: 66182 KB/GCycles
+[130684.341151] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.397498] [exchange_page_lists_mthread] Current exchange bandhwidth: 66219 KB/GCycles
+[130684.398527] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.452360] [exchange_page_lists_mthread] Current exchange bandhwidth: 66260 KB/GCycles
+[130684.455188] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.556057] [exchange_page_lists_mthread] Current exchange bandhwidth: 66245 KB/GCycles
+[130684.559645] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.642530] [exchange_page_lists_mthread] Current exchange bandhwidth: 66252 KB/GCycles
+[130684.643175] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.697461] [exchange_page_lists_mthread] Current exchange bandhwidth: 66292 KB/GCycles
+[130684.697807] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.773191] [exchange_page_lists_mthread] Current exchange bandhwidth: 66307 KB/GCycles
+[130684.773658] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.852884] [exchange_page_lists_mthread] Current exchange bandhwidth: 66318 KB/GCycles
+[130684.853430] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130684.938419] [exchange_page_lists_mthread] Current exchange bandhwidth: 66322 KB/GCycles
+[130684.938973] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.009080] [exchange_page_lists_mthread] Current exchange bandhwidth: 66343 KB/GCycles
+[130685.011336] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.080020] [exchange_page_lists_mthread] Current exchange bandhwidth: 66366 KB/GCycles
+[130685.080731] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.114446] [exchange_page_lists_mthread] Current exchange bandhwidth: 66429 KB/GCycles
+[130685.114798] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.173223] [exchange_page_lists_mthread] Current exchange bandhwidth: 66464 KB/GCycles
+[130685.176544] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.252655] [exchange_page_lists_mthread] Current exchange bandhwidth: 66477 KB/GCycles
+[130685.255737] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.353537] [exchange_page_lists_mthread] Current exchange bandhwidth: 66466 KB/GCycles
+[130685.353676] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130685.380706] [exchange_page_lists_mthread] Current exchange bandhwidth: 66461 KB/GCycles
+[130688.418256] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.485892] [exchange_page_lists_mthread] Current exchange bandhwidth: 66484 KB/GCycles
+[130688.486074] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.560655] [exchange_page_lists_mthread] Current exchange bandhwidth: 66500 KB/GCycles
+[130688.560818] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.639802] [exchange_page_lists_mthread] Current exchange bandhwidth: 66511 KB/GCycles
+[130688.640031] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.718630] [exchange_page_lists_mthread] Current exchange bandhwidth: 66522 KB/GCycles
+[130688.718805] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.794763] [exchange_page_lists_mthread] Current exchange bandhwidth: 66536 KB/GCycles
+[130688.794957] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.872953] [exchange_page_lists_mthread] Current exchange bandhwidth: 66547 KB/GCycles
+[130688.873145] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130688.950385] [exchange_page_lists_mthread] Current exchange bandhwidth: 66560 KB/GCycles
+[130688.950574] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.015695] [exchange_page_lists_mthread] Current exchange bandhwidth: 66586 KB/GCycles
+[130689.015915] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.058219] [exchange_page_lists_mthread] Current exchange bandhwidth: 66638 KB/GCycles
+[130689.058442] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.102037] [exchange_page_lists_mthread] Current exchange bandhwidth: 66689 KB/GCycles
+[130689.102269] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.150762] [exchange_page_lists_mthread] Current exchange bandhwidth: 66734 KB/GCycles
+[130689.151244] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.193424] [exchange_page_lists_mthread] Current exchange bandhwidth: 66787 KB/GCycles
+[130689.195170] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.230242] [exchange_page_lists_mthread] Current exchange bandhwidth: 66847 KB/GCycles
+[130689.230606] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.272350] [exchange_page_lists_mthread] Current exchange bandhwidth: 66900 KB/GCycles
+[130689.272969] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.311956] [exchange_page_lists_mthread] Current exchange bandhwidth: 66955 KB/GCycles
+[130689.313545] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.347646] [exchange_page_lists_mthread] Current exchange bandhwidth: 67016 KB/GCycles
+[130689.348181] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.389721] [exchange_page_lists_mthread] Current exchange bandhwidth: 67069 KB/GCycles
+[130689.391789] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.426799] [exchange_page_lists_mthread] Current exchange bandhwidth: 67129 KB/GCycles
+[130689.427214] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.468481] [exchange_page_lists_mthread] Current exchange bandhwidth: 67182 KB/GCycles
+[130689.471135] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.505085] [exchange_page_lists_mthread] Current exchange bandhwidth: 67243 KB/GCycles
+[130689.505516] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.546236] [exchange_page_lists_mthread] Current exchange bandhwidth: 67296 KB/GCycles
+[130689.549359] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.583192] [exchange_page_lists_mthread] Current exchange bandhwidth: 67357 KB/GCycles
+[130689.583259] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130689.588436] [exchange_page_lists_mthread] Current exchange bandhwidth: 67364 KB/GCycles
+[130693.418628] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.451084] [exchange_page_lists_mthread] Current exchange bandhwidth: 67426 KB/GCycles
+[130693.451256] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.487857] [exchange_page_lists_mthread] Current exchange bandhwidth: 67484 KB/GCycles
+[130693.488026] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.526965] [exchange_page_lists_mthread] Current exchange bandhwidth: 67539 KB/GCycles
+[130693.527139] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.568414] [exchange_page_lists_mthread] Current exchange bandhwidth: 67591 KB/GCycles
+[130693.568629] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.611922] [exchange_page_lists_mthread] Current exchange bandhwidth: 67641 KB/GCycles
+[130693.612131] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.656136] [exchange_page_lists_mthread] Current exchange bandhwidth: 67690 KB/GCycles
+[130693.656232] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130693.667032] [exchange_page_lists_mthread] Current exchange bandhwidth: 67703 KB/GCycles
+[130698.425764] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.449333] [exchange_page_lists_mthread] Current exchange bandhwidth: 67775 KB/GCycles
+[130698.449500] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.513201] [exchange_page_lists_mthread] Current exchange bandhwidth: 67801 KB/GCycles
+[130698.513413] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.604532] [exchange_page_lists_mthread] Current exchange bandhwidth: 67796 KB/GCycles
+[130698.604816] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.696783] [exchange_page_lists_mthread] Current exchange bandhwidth: 67790 KB/GCycles
+[130698.697102] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.792541] [exchange_page_lists_mthread] Current exchange bandhwidth: 67779 KB/GCycles
+[130698.792856] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.889186] [exchange_page_lists_mthread] Current exchange bandhwidth: 67768 KB/GCycles
+[130698.889566] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130698.990616] [exchange_page_lists_mthread] Current exchange bandhwidth: 67752 KB/GCycles
+[130698.991204] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.091913] [exchange_page_lists_mthread] Current exchange bandhwidth: 67736 KB/GCycles
+[130699.092631] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.195405] [exchange_page_lists_mthread] Current exchange bandhwidth: 67717 KB/GCycles
+[130699.197314] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.288227] [exchange_page_lists_mthread] Current exchange bandhwidth: 67712 KB/GCycles
+[130699.290630] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.381646] [exchange_page_lists_mthread] Current exchange bandhwidth: 67707 KB/GCycles
+[130699.382084] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.473250] [exchange_page_lists_mthread] Current exchange bandhwidth: 67702 KB/GCycles
+[130699.474644] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.560968] [exchange_page_lists_mthread] Current exchange bandhwidth: 67703 KB/GCycles
+[130699.563175] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.657660] [exchange_page_lists_mthread] Current exchange bandhwidth: 67694 KB/GCycles
+[130699.658893] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130699.706977] [exchange_page_lists_mthread] Current exchange bandhwidth: 67688 KB/GCycles
+[130703.429269] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130703.529037] [exchange_page_lists_mthread] Current exchange bandhwidth: 67673 KB/GCycles
+[130703.529336] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130703.631006] [exchange_page_lists_mthread] Current exchange bandhwidth: 67657 KB/GCycles
+[130703.631341] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130703.740731] [exchange_page_lists_mthread] Current exchange bandhwidth: 67631 KB/GCycles
+[130703.741038] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130703.851332] [exchange_page_lists_mthread] Current exchange bandhwidth: 67605 KB/GCycles
+[130703.851658] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130703.962732] [exchange_page_lists_mthread] Current exchange bandhwidth: 67578 KB/GCycles
+[130703.963065] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130704.071472] [exchange_page_lists_mthread] Current exchange bandhwidth: 67554 KB/GCycles
+[130704.071980] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130704.174829] [exchange_page_lists_mthread] Current exchange bandhwidth: 67536 KB/GCycles
+[130704.175425] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130704.279960] [exchange_page_lists_mthread] Current exchange bandhwidth: 67516 KB/GCycles
+[130704.280427] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130704.384089] [exchange_page_lists_mthread] Current exchange bandhwidth: 67498 KB/GCycles
+[130704.384260] [exchange_page_lists_mthread-current_cpu_node=1] Scheduled the mt-4 exchange operation between node 9 and 2 on CPU close to node 1!
+[130704.410968] [exchange_page_lists_mthread] Current exchange bandhwidth: 67492 KB/GCycles
