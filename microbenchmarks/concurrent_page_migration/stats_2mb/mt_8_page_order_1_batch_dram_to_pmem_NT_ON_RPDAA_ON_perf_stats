@@ -1,0 +1,6 @@
+bandwidth(GB/s),unc_m_pmm_rpq_occupancy_all_0,unc_m_pmm_wpq_occupancy_all_0,unc_m_pmm_rpq_inserts_0,unc_m_pmm_wpq_inserts_0
+,8656,104694726,8,65536,
+,10690,105227030,10,65536,
+,13977,102073703,13,65536,
+,7296,107011199,7,65536,
+,11855,110490046,9,65536,
